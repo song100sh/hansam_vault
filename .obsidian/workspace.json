@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-08 16.md",
+                "file": "스크립트/기기 모델명 확인 스크립트.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,8 +120,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-08 16.md",
+                "file": "스크립트/기기 모델명 확인 스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-08 16.md",
+                "file": "스크립트/기기 모델명 확인 스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-08 16.md"
+                "file": "스크립트/기기 모델명 확인 스크립트.md"
               }
             }
           },
@@ -214,8 +213,8 @@
   },
   "active": "521463290e9dd950",
   "lastOpenFiles": [
-    "2024-04-08 5.md",
     "2024-04-08 16.md",
+    "2024-04-08 5.md",
     "이전업무일지/2024-04-03/2024-04-03 1.md",
     "스크립트/대리점 스크립트.md",
     "업무 정보/전문 OEM 이관 연락처.md",
