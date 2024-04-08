@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "13428893bf041612",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb2d462e18cd69e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c332772693bfe44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-29 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f6b4857abdade089",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26dcc6247856e92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스크립트/대리점 스크립트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "908e2023f6a84ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec9f02bb17d0be72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0ca9ad5a36d6001",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f65703a7a91849b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22ba431beb1b532b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "10668864efb0c614",
+    "type": "split",
+    "children": [
+      {
+        "id": "039f80e28fb59b4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e338a2b49df79fee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-03-29 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5754ead00e955a1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-03-29 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55161bbd188db5ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10a1fd90656ef00f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-03-29 2.md"
+              }
+            }
+          },
+          {
+            "id": "2503d4b601ce7d5b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4c332772693bfe44",
+  "lastOpenFiles": [
+    "업무 가이드/공통 가이드.md",
+    "2024-03-29 5.md",
+    "양식/문자 양식.md",
+    "양식/핫라인 양식.md",
+    "2024-03-29 2.md",
+    "2024-03-29 3.md",
+    "2024-03-29 4.md",
+    "스크립트/대리점 스크립트.md",
+    "2024-03-29.md",
+    "업무 가이드/대리점 접수 가이드.md",
+    "업무 정보/계정정보.md",
+    "이전업무일지/2024-03-28/20240328-6.md",
+    "이전작업자의 흔적/이전작업자 문자양식.md",
+    "업무 가이드/한샘몰 이관 문의 가이드.md",
+    "업무 가이드/출장비.md",
+    "업무 가이드/수정 가이드.md",
+    "이전작업자의 흔적/대리점 전산 스크립트.md",
+    "이전업무일지/2024-03-28/20240328-7.md",
+    "이전업무일지/2024-03-28/20240328-8.md",
+    "이전업무일지/2024-03-28/20240328-5.md",
+    "이전업무일지/2024-03-28/20240328-4.md",
+    "이전업무일지/2024-03-28/20240328-3.md",
+    "이전업무일지/2024-03-28/20240328-2.md",
+    "이전업무일지/2024-03-28/20240328-1.md",
+    "이전업무일지/2024-03-28/2024-03-28.md",
+    "스크립트/기기 모델명 확인 스크립트.md",
+    "이전업무일지/2024-03-28",
+    "이전업무일지/2024-03-27",
+    "이전업무일지",
+    "이전작업자의 흔적",
+    "스크립트",
+    "업무 가이드",
+    "업무 정보",
+    "양식"
+  ]
+}
