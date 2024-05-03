@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d99e66ca9790e8e1",
+        "id": "52cb6fa8a17d7117",
         "type": "tabs",
         "children": [
           {
-            "id": "71df1a0600aa65aa",
+            "id": "2c88a880f4b5c8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-02.md",
+                "file": "스크립트/대리점 스크립트.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "영업발",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스크립트/카카오톡 스크립트.md",
+                "file": "스크립트/대리점 스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스크립트/카카오톡 스크립트.md",
+                "file": "스크립트/대리점 스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스크립트/카카오톡 스크립트.md"
+                "file": "스크립트/대리점 스크립트.md"
               }
             }
           },
@@ -158,19 +157,19 @@
     }
   },
   "floating": {
-    "id": "65d9d52b84b8ecfc",
+    "id": "fd8df5e4197dd630",
     "type": "floating",
     "children": [
       {
-        "id": "bd41f31dab821057",
+        "id": "62854d7ac29f0e69",
         "type": "window",
         "children": [
           {
-            "id": "2de8286a7a4df67a",
+            "id": "4665f1edb3cb9761",
             "type": "tabs",
             "children": [
               {
-                "id": "819a4661ca58be4f",
+                "id": "945257dc71e47c3e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -182,7 +181,7 @@
                 }
               },
               {
-                "id": "451cb0d4e01f4da1",
+                "id": "caa4603d435c6268",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -199,41 +198,41 @@
         "direction": "vertical",
         "x": 1543,
         "y": 2,
-        "width": 374,
+        "width": 375,
         "height": 1036,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "819a4661ca58be4f",
+  "active": "2c88a880f4b5c8af",
   "lastOpenFiles": [
-    "2024-05-02.md",
+    "2024-05-03.md",
+    "업무 가이드/콜백 가이드.md",
     "스크립트/카카오톡 스크립트.md",
+    "스크립트/대리점 스크립트.md",
+    "양식/메일 양식.md",
+    "양식/문자 양식.md",
+    "업무 정보/직책 정보.md",
+    "업무 정보/계정정보.md",
+    "업무 가이드/출장비.md",
+    "양식/핫라인 양식.md",
     "업무 가이드/긴급 가이드.md",
+    "스크립트/긴급건 스크립트.md",
+    "이전업무일지/2024-04-26.md",
+    "이전업무일지/2024-05-02.md",
     "업무 정보/전문 OEM 이관 연락처.md",
     "업무 가이드/공통 가이드.md",
-    "업무 가이드/출장비.md",
-    "스크립트/대리점 스크립트.md",
-    "업무 정보/계정정보.md",
     "이전업무일지/이전작업자의 흔적/핫라인.md",
-    "양식/핫라인 양식.md",
     "이전업무일지/2024-04-22/2024-04-22 1.md",
-    "2024-04-30.md",
+    "이전업무일지/2024-04-30.md",
     "업무 가이드/대리점 접수 가이드.md",
     "스크립트/출장비 안내 스크립트.md",
     "업무 가이드/조이포라이프,아메리칸스탠다드,하츠 접수 가이드.md",
     "업무 가이드/마감스티커 마감캡 가이드.md",
-    "양식/문자 양식.md",
-    "2024-04-29.md",
-    "2024-04-26.md",
-    "양식/메일 양식.md",
+    "이전업무일지/2024-04-29.md",
     "이전업무일지/2024-04-03/2024-04-03 1.md",
     "업무 가이드/이동시공 가이드.md",
-    "이전업무일지/2024-04-23.md",
-    "이전업무일지/2024-04-25.md",
-    "이전업무일지/이전작업자의 흔적/홈케어 관련 연락처.md",
-    "이전업무일지/2024-04-24.md",
     "이전업무일지/2024-04-22",
     "2024-04-22",
     "이전업무일지/2024-04-19",
