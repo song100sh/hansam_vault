@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9908985bb8c5a5f0",
+            "id": "5789257c83f3d808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-07.md",
+                "file": "2024-05-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "트라이",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 203.5
   },
   "right": {
     "id": "10668864efb0c614",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-07.md",
+                "file": "2024-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-07.md",
+                "file": "2024-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-07.md"
+                "file": "2024-05-08.md"
               }
             }
           },
@@ -206,21 +205,24 @@
       }
     ]
   },
-  "active": "9908985bb8c5a5f0",
+  "active": "5789257c83f3d808",
   "lastOpenFiles": [
     "스크립트/카카오톡 스크립트.md",
-    "2024-05-07.md",
+    "2024-05-08.md",
+    "업무 정보/전문 OEM 이관 연락처.md",
+    "이전업무일지/2024-04-03/2024-04-03 10.md",
     "이전업무일지/2024-04-03/2024-04-03 1.md",
+    "2024-05-07.md",
+    "업무 가이드/긴급 가이드.md",
+    "업무 가이드/공통 가이드.md",
+    "이전업무일지/2024-04-23.md",
+    "업무 정보/계정정보.md",
     "이전업무일지/2024-04-24.md",
     "이전업무일지/이전작업자의 흔적/핫라인.md",
-    "업무 정보/전문 OEM 이관 연락처.md",
-    "업무 정보/계정정보.md",
     "업무 가이드/이동시공 가이드.md",
-    "업무 가이드/긴급 가이드.md",
     "이전업무일지/이전작업자의 흔적/홈케어 관련 연락처.md",
     "양식/핫라인 양식.md",
     "업무 정보/직책 정보.md",
-    "업무 가이드/공통 가이드.md",
     "이전업무일지/2024-04-17/2024-04-17 1.md",
     "이전업무일지/2024-05-03.md",
     "스크립트/대리점 스크립트.md",
@@ -231,9 +233,6 @@
     "스크립트/긴급건 스크립트.md",
     "이전업무일지/2024-04-26.md",
     "이전업무일지/2024-05-02.md",
-    "이전업무일지/2024-04-22/2024-04-22 1.md",
-    "이전업무일지/2024-04-30.md",
-    "업무 가이드/대리점 접수 가이드.md",
     "이전업무일지/2024-04-22",
     "2024-04-22",
     "이전업무일지/2024-04-19",
