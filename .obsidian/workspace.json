@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-22.md",
+                "file": "2024-05-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스크립트/카카오톡 스크립트.md",
+                "file": "2024-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스크립트/카카오톡 스크립트.md",
+                "file": "2024-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스크립트/카카오톡 스크립트.md"
+                "file": "2024-05-23.md"
               }
             }
           },
@@ -193,19 +193,7 @@
                 }
               },
               {
-                "id": "5789257c83f3d808",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "업무 가이드/콜백 가이드.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "090f226eb9dfdc47",
+                "id": "b4dd8c7c8f6410e1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -215,32 +203,48 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "fd728424a285faef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "업무 가이드/콜백 가이드.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 1216,
+        "x": 1234,
         "y": 2,
-        "width": 702,
+        "width": 684,
         "height": 1036,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "945257dc71e47c3e",
+  "active": "9a8b6996a59a6bfd",
   "lastOpenFiles": [
     "스크립트/대리점 스크립트.md",
-    "2024-05-22.md",
-    "업무 가이드/긴급 가이드.md",
-    "업무 정보/계정정보.md",
-    "업무 정보/직책 정보.md",
-    "업무 정보/전문 OEM 이관 연락처.md",
     "업무 가이드/콜백 가이드.md",
+    "2024-05-23.md",
+    "양식/메일 양식.md",
+    "업무 가이드/긴급 가이드.md",
     "스크립트/카카오톡 스크립트.md",
-    "이전업무일지/2024-03-29/2024-03-29 3.md",
+    "2024-05-20.md",
     "2024-05-21.md",
+    "2024-05-22.md",
+    "업무 정보/전문 OEM 이관 연락처.md",
+    "업무 정보/직책 정보.md",
+    "업무 정보/계정정보.md",
+    "이전업무일지/2024-03-29/2024-03-29 3.md",
     "양식/핫라인 양식.md",
     "이전업무일지/이전작업자의 흔적/다중메모.md",
     "이전업무일지/2024-04-12/2024-04-12 17.md",
@@ -248,15 +252,12 @@
     "업무 가이드/공통 가이드.md",
     "업무 가이드/이동시공 가이드.md",
     "이전업무일지/2024-05-17.md",
-    "2024-05-20.md",
     "이전업무일지/2024-05-09.md",
     "이전업무일지/2024-05-08.md",
     "이전업무일지/2024-05-02.md",
     "양식/문자 양식.md",
     "이전업무일지/2024-05-16.md",
     "이전업무일지/2024-05-13.md",
-    "이전업무일지/2024-05-07.md",
-    "이전업무일지/2024-05-10.md",
     "이전업무일지/2024-04-22",
     "2024-04-22",
     "이전업무일지/2024-04-19",
