@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "현대 렌탈",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "2024-05-24.md"
               }
             }
           },
@@ -221,9 +221,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1234,
+        "x": 1543,
         "y": 2,
-        "width": 684,
+        "width": 375,
         "height": 1036,
         "maximize": false,
         "zoom": 0
@@ -233,17 +233,20 @@
   "active": "9a8b6996a59a6bfd",
   "lastOpenFiles": [
     "스크립트/대리점 스크립트.md",
+    "2024-05-24.md",
     "업무 가이드/콜백 가이드.md",
+    "스크립트/카카오톡 스크립트.md",
+    "업무 정보/전문 OEM 이관 연락처.md",
+    "업무 정보/계정정보.md",
+    "업무 정보/직책 정보.md",
+    "이전업무일지/2024-04-24.md",
+    "업무 가이드/긴급 가이드.md",
+    "업무 가이드/오큐 음식물처리기 가이드.md",
     "2024-05-23.md",
     "양식/메일 양식.md",
-    "업무 가이드/긴급 가이드.md",
-    "스크립트/카카오톡 스크립트.md",
     "2024-05-20.md",
     "2024-05-21.md",
     "2024-05-22.md",
-    "업무 정보/전문 OEM 이관 연락처.md",
-    "업무 정보/직책 정보.md",
-    "업무 정보/계정정보.md",
     "이전업무일지/2024-03-29/2024-03-29 3.md",
     "양식/핫라인 양식.md",
     "이전업무일지/이전작업자의 흔적/다중메모.md",
@@ -255,9 +258,6 @@
     "이전업무일지/2024-05-09.md",
     "이전업무일지/2024-05-08.md",
     "이전업무일지/2024-05-02.md",
-    "양식/문자 양식.md",
-    "이전업무일지/2024-05-16.md",
-    "이전업무일지/2024-05-13.md",
     "이전업무일지/2024-04-22",
     "2024-04-22",
     "이전업무일지/2024-04-19",
