@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-11.md",
+                "file": "2024-06-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 204.5
   },
   "right": {
     "id": "10668864efb0c614",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-11.md",
+                "file": "2024-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-11.md",
+                "file": "2024-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-11.md"
+                "file": "2024-06-12.md"
               }
             }
           },
@@ -219,17 +219,18 @@
   },
   "active": "b4dd8c7c8f6410e1",
   "lastOpenFiles": [
+    "2024-06-10.md",
+    "2024-06-12.md",
     "스크립트/카카오톡 스크립트.md",
     "2024-06-11.md",
+    "업무 가이드/긴급 가이드.md",
     "Pasted image 20240611170443.png",
     "양식/메일 양식.md",
     "양식/핫라인 양식.md",
     "양식/문자 양식.md",
-    "2024-06-10.md",
     "업무 가이드/공통 가이드.md",
     "스크립트/대리점 스크립트.md",
     "업무 가이드/콜백 가이드.md",
-    "업무 가이드/긴급 가이드.md",
     "2024-06-07.md",
     "스크립트/영업담당자 통화 스크립트.md",
     "업무 정보/전문 OEM 이관 연락처.md",
