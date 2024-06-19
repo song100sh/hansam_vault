@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-14.md",
+                "file": "2024-06-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "오큐",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-14.md",
+                "file": "2024-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-14.md",
+                "file": "2024-06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-14.md"
+                "file": "2024-06-19.md"
               }
             }
           },
@@ -191,15 +191,28 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "8cb5bbe7d0cabd8d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "스크립트/대리점 스크립트.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 1543,
-        "y": 365,
+        "x": -377,
+        "y": 380,
         "width": 375,
-        "height": 673,
+        "height": 658,
         "maximize": false,
         "zoom": 0
       },
@@ -227,10 +240,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1543,
-        "y": 0,
-        "width": 378,
-        "height": 366,
+        "x": -377,
+        "y": 2,
+        "width": 375,
+        "height": 376,
         "maximize": false,
         "zoom": 0
       }
@@ -238,33 +251,33 @@
   },
   "active": "b4dd8c7c8f6410e1",
   "lastOpenFiles": [
-    "스크립트/카카오톡 상담이력 스크립트.md",
-    "2024-06-14.md",
+    "스크립트/대리점 스크립트.md",
     "스크립트/카카오톡 스크립트.md",
+    "2024-06-19.md",
+    "업무 정보/개선 요청 사항.md",
+    "스크립트/카카오톡 상담이력 스크립트.md",
     "업무 가이드/긴급 가이드.md",
+    "2024-06-18.md",
     "양식/핫라인 양식.md",
+    "업무 가이드/오큐 음식물처리기 가이드.md",
+    "이전업무일지/이전작업자의 흔적/핫라인.md",
+    "이전업무일지/이전작업자의 흔적/홈케어 관련 연락처.md",
+    "이전업무일지/2024-06-05.md",
+    "이전업무일지/2024-06-14.md",
+    "2024-06-17.md",
+    "업무 정보/계정정보.md",
     "양식/메일 양식.md",
     "양식/문자 양식.md",
     "이전업무일지/2024-04-08/2024-04-08 16.md",
-    "2024-06-10.md",
+    "이전업무일지/2024-06-10.md",
     "스크립트/긴급건 스크립트.md",
-    "2024-06-13.md",
+    "이전업무일지/2024-06-13.md",
     "업무 정보/후드 모델명 확인 방법.md",
-    "업무 정보/계정정보.md",
     "업무 정보/직책 정보.md",
     "업무 정보/전문 OEM 이관 연락처.md",
-    "스크립트/대리점 스크립트.md",
     "업무 가이드/공통 가이드.md",
-    "2024-06-12.md",
-    "이전업무일지/이전작업자의 흔적/가스쿡탑 문의.md",
-    "이전업무일지/2024-04-16/2024-04-16 20.md",
-    "이전업무일지/이전작업자의 흔적/홈케어 관련 연락처.md",
-    "2024-06-11.md",
+    "이전업무일지/2024-06-12.md",
     "Pasted image 20240611170443.png",
-    "업무 가이드/콜백 가이드.md",
-    "2024-06-07.md",
-    "스크립트/영업담당자 통화 스크립트.md",
-    "이전업무일지/2024-04-22/2024-04-22 1.md",
     "Pasted image 20240528181429.png",
     "Pasted image 20240527135134.png",
     "이전업무일지/2024-04-22",
