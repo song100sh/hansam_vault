@@ -8,5 +8,6 @@
   "livePreview": true,
   "showIndentGuide": true,
   "strictLineBreaks": false,
-  "useTab": false
+  "useTab": false,
+  "autoConvertHtml": false
 }

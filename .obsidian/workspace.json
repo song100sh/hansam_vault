@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "52cb6fa8a17d7117",
+        "id": "0f2cc95d716187b9",
         "type": "tabs",
         "children": [
           {
-            "id": "b4dd8c7c8f6410e1",
+            "id": "eb496c8a16f611f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-11.md",
+                "file": "업무 가이드/붙박이장 비용 가이드.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "붙박이장 비용 가이드"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "성철사",
+                "query": "LG ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-11.md",
+                "file": "2024-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "2024-10-17의 백링크"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-11.md",
+                "file": "2024-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "2024-10-17의 나가는 링크"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-11.md"
-              }
+                "file": "2024-10-17.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-10-17 개요"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -168,15 +186,17 @@
             "type": "tabs",
             "children": [
               {
-                "id": "d6009207abe3eb68",
+                "id": "5e7098138546359b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "스크립트/카카오톡 스크립트.md",
+                    "file": "스크립트/실전 압축 스크립트.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "실전 압축 스크립트"
                 }
               },
               {
@@ -188,7 +208,9 @@
                     "file": "업무 가이드/긴급 가이드.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "긴급 가이드"
                 }
               },
               {
@@ -200,30 +222,33 @@
                     "file": "스크립트/수신 스크립트.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "수신 스크립트"
                 }
               },
               {
-                "id": "dae0cf7eeff23c57",
+                "id": "d6009207abe3eb68",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "스크립트/대리점 스크립트.md",
+                    "file": "스크립트/카카오톡 스크립트.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "카카오톡 스크립트"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
-        "x": -378,
-        "y": 380,
-        "width": 376,
-        "height": 658,
+        "x": -495,
+        "y": 514,
+        "width": 497,
+        "height": 526,
         "maximize": false,
         "zoom": 0
       },
@@ -241,65 +266,126 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "스크립트/카카오톡 상담이력 스크립트.md",
+                    "file": "스크립트/상담이력 스크립트.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "상담이력 스크립트"
+                }
+              },
+              {
+                "id": "49142205cc04325a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "양식/문자 양식.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "문자 양식"
+                }
+              },
+              {
+                "id": "e4ac33f5f236fc4d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "양식/핫라인 양식.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "핫라인 양식"
+                }
+              },
+              {
+                "id": "d5e63a9bab904dbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "양식/메일 양식.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "메일 양식"
+                }
+              },
+              {
+                "id": "44ce568ac55cd40d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "양식/잔디 전달 양식.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "잔디 전달 양식"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": -377,
+        "x": -496,
         "y": 2,
-        "width": 375,
-        "height": 376,
+        "width": 495,
+        "height": 512,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b4dd8c7c8f6410e1",
+  "active": "eb496c8a16f611f9",
   "lastOpenFiles": [
-    "양식/핫라인 양식.md",
-    "2024-07-11.md",
-    "스크립트/대리점 스크립트.md",
-    "스크립트/수신 스크립트.md",
-    "스크립트/카카오톡 스크립트.md",
-    "스크립트/카카오톡 상담이력 스크립트.md",
-    "업무 정보/개선 요청 사항.md",
+    "2024-11-01.md",
+    "업무 가이드/붙박이장 비용 가이드.md",
     "업무 정보/전문 OEM 이관 연락처.md",
-    "업무 정보/계정정보.md",
+    "양식/문자 양식.md",
+    "이전업무일지/2024-08/2024-08-29.md",
+    "2024-10-31.md",
+    "이전업무일지/2024-05/2024-05-30.md",
+    "양식/핫라인 양식.md",
+    "스크립트/실전 압축 스크립트.md",
+    "스크립트/상담이력 스크립트.md",
+    "이전업무일지/2024-10/2024-10-17.md",
+    "이전업무일지/2024-10/2024-10-18.md",
     "업무 가이드/긴급 가이드.md",
-    "2024-07-10.md",
-    "이전업무일지/2024-04/2024-04-11/2024-04-11 16.md",
-    "이전업무일지/2024-06/2024-06-05.md",
-    "이전업무일지/이전작업자의 흔적/핫라인.md",
-    "이전업무일지/이전작업자의 흔적/오젠 진공블랜더.md",
-    "이전업무일지/2024-07-02.md",
+    "업무 정보/직책 정보.md",
+    "2024-10-30.md",
+    "이전업무일지/2024-10/2024-10-02.md",
+    "이전업무일지/2024-10/2024-10-25.md",
+    "이전업무일지/2024-10",
+    "양식/메일 양식.md",
+    "2024-10-28.md",
+    "2024-10-29.md",
     "업무 가이드/공통 가이드.md",
-    "2024-07-09.md",
-    "이전업무일지/2024-04/2024-04-12/2024-04-12 4.md",
-    "이전업무일지/2024-04/2024-04-12/2024-04-12 19.md",
-    "이전업무일지/2024-04/2024-04-12/2024-04-12.md",
-    "이전업무일지/2024-06/2024-06-13.md",
-    "이전업무일지/2024-04/2024-04-03/2024-04-03 1.md",
-    "이전업무일지/2024-06/2024-06-03.md",
-    "이전업무일지/2024-05/2024-05-02.md",
+    "이전업무일지/2024-08/2024-08-20.md",
+    "이전업무일지/2024-10/2024-10-24.md",
+    "이전업무일지/2024-10/2024-10-23.md",
+    "이전업무일지/2024-05/2024-05-13.md",
+    "이전업무일지/2024-09/2024-09-24.md",
+    "이전업무일지/2024-09",
+    "template",
+    "Pasted image 20240906134802.png",
+    "Pasted image 20240906134807.png",
+    "이전업무일지/2024-08",
+    "이전업무일지/2024-07",
     "이전업무일지/2024-06",
-    "이전업무일지/2024-04/2024-04-23.md",
     "이전업무일지/2024-05",
     "이전업무일지/2024-04",
     "이전업무일지/2024-03",
     "Pasted image 20240611170443.png",
     "Pasted image 20240528181429.png",
     "Pasted image 20240527135134.png",
-    "이전업무일지/2024-04/2024-04-22",
-    "2024-04-22",
-    "이전업무일지/2024-04/2024-04-19",
-    "이전업무일지/2024-04/2024-04-18",
-    "이전업무일지/2024-04/2024-04-17",
-    "이전업무일지/2024-04/2024-04-16"
+    "이전업무일지/2024-04/2024-04-22"
   ]
 }
