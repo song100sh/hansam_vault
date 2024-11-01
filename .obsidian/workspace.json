@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무 가이드/붙박이장 비용 가이드.md",
+                "file": "2024-11-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "붙박이장 비용 가이드"
+              "title": "2024-11-01"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LG ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -346,8 +346,9 @@
   },
   "active": "eb496c8a16f611f9",
   "lastOpenFiles": [
-    "2024-11-01.md",
+    "업무 정보/OEM협력사 연락처 번호.md",
     "업무 가이드/붙박이장 비용 가이드.md",
+    "2024-11-01.md",
     "업무 정보/전문 OEM 이관 연락처.md",
     "양식/문자 양식.md",
     "이전업무일지/2024-08/2024-08-29.md",
@@ -372,7 +373,6 @@
     "이전업무일지/2024-10/2024-10-24.md",
     "이전업무일지/2024-10/2024-10-23.md",
     "이전업무일지/2024-05/2024-05-13.md",
-    "이전업무일지/2024-09/2024-09-24.md",
     "이전업무일지/2024-09",
     "template",
     "Pasted image 20240906134802.png",
