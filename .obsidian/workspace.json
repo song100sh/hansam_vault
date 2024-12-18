@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1d61bfc5ef60cbc0",
+        "id": "b2bfcf5d7129eac1",
         "type": "tabs",
         "children": [
           {
-            "id": "d60d0958164b52b5",
+            "id": "91182efef683efee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "업무 정보/제품정보/부엌/수전 정보.md",
+                "file": "2024-12-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "수전 정보"
-            }
-          },
-          {
-            "id": "6f598bcb97bbdbc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-12-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-16"
+              "title": "2024-12-18"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "프랑케",
+                "query": "폴대",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,7 +214,8 @@
                   "title": "핫라인 양식"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -289,34 +276,39 @@
       }
     ]
   },
-  "active": "6f598bcb97bbdbc2",
+  "active": "91182efef683efee",
   "lastOpenFiles": [
-    "업무 정보/제품정보/부엌/부엌장 추가 비용.md",
-    "2024-12-16.md",
     "업무 가이드/전문상담 가이드.md",
-    "이전업무일지/2024-11/2024-11-26.md",
-    "업무 정보/제품정보/2024 HF 가구 및 소파 AS 수리비.md",
-    "2024-12-09.md",
-    "양식/문자 양식.md",
+    "2024-12-18.md",
     "양식/핫라인 양식.md",
-    "2024-12-11.md",
-    "2024-12-12.md",
-    "2024-12-13.md",
-    "업무 정보/제품정보/부엌/부엌 가구 도장 수리.md",
-    "업무 정보/제품정보/홈퍼니싱/가구 종합.md",
-    "이전업무일지/2024-11/2024-11-27.md",
-    "area/area README.md",
-    "resource/resource README.md",
-    "project/project README.md",
-    "업무 정보/제품정보/부엌/수전 정보.md",
-    "업무 정보/제품정보/바스/와토스 폽업.md",
-    "업무 정보/제품정보/쿡탑/쿡탑 기기 정보.md",
-    "업무 정보/제품정보/홈퍼니싱/바흐 네추럴 드레스룸.md",
+    "archive/이전업무일지/2024-11/2024-11-18.md",
+    "archive/이전업무일지/2024-11/2024-11-15.md",
+    "archive/이전업무일지/2024-04/2024-04-02/2024-04-02 10.md",
+    "2024-12-17.md",
+    "양식/문자 양식.md",
     "업무 정보/제품정보/쿡탑/쿡탑 교체 비용.md",
-    "업무 정보/제품정보/후드/후드 교체 비용.md",
-    "업무 정보/제품정보/후드/후드 교체.md",
-    "업무 정보/제품정보/후드/후드 모델명 확인 방법.md",
-    "업무 정보/제품정보/홈퍼니싱/바흐 브라운.md",
+    "area/업무루틴/고객부재대응.md",
+    "area/업무루틴/사진미발송대응.md",
+    "area/업무루틴/이관건수확인.md",
+    "area/업무루틴/출격방어_홈퍼니싱문의.md",
+    "업무 정보/제품정보/바스/와토스 폽업.md",
+    "resource/무상발송건/마감스티커.md",
+    "resource/무상발송건/포시즌 컨트롤러 무상 발송건.md",
+    "resource/무상발송건",
+    "resource/resource README.md",
+    "archive/archive README.md",
+    "image/샘키즈박스.png",
+    "image/135도45컵경첩사진1.png",
+    "업무 정보/사내정보/직책 정보.md",
+    "업무 정보/사내정보/전문 OEM 이관 연락처.md",
+    "업무 정보/사내정보/명칭 설명.md",
+    "업무 정보/사내정보/계정정보.md",
+    "업무 정보/사내정보/개선 요청 사항.md",
+    "업무 가이드/긴급 가이드.md",
+    "area/업무루틴",
+    "area/area README.md",
+    "project/project README.md",
+    "main_tab012.gif",
     "resource",
     "archive",
     "area",
@@ -326,16 +318,11 @@
     "업무 정보/제품정보/바스",
     "업무 정보/제품정보/부엌",
     "업무 정보/사내정보",
-    "업무 정보/제품정보/홈퍼니싱",
-    "업무 정보/제품정보/쿡탑",
-    "image/샘키즈박스.png",
-    "image/135도45컵경첩사진1.png",
     "업무 가이드/Pasted image 20241111114143.png",
     "업무 가이드/Pasted image 20241111114137.png",
     "Pasted image 20240906134802.png",
     "Pasted image 20240906134807.png",
     "Pasted image 20240611170443.png",
-    "Pasted image 20240528181429.png",
-    "Pasted image 20240527135134.png"
+    "Pasted image 20240528181429.png"
   ]
 }
