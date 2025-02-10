@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-07.md",
+                "file": "2025-02-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-07"
+              "title": "2025-02-10"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "싱크대 도어",
-                "matchingCase": false,
+                "query": "고정선반",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,7 +243,8 @@
                   "title": "전문문의양식"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -317,34 +319,34 @@
       }
     ]
   },
-  "active": "d004d32d8be602e8",
+  "active": "08f328f004a2b2b4",
   "lastOpenFiles": [
-    "area/양식/문자 양식.md",
-    "2025-02-07.md",
-    "area/빈도수높은문의/부엌장 추가 비용.md",
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
-    "archive/이전업무일지/2024년도/2024-12/2024-12-04.md",
-    "archive/이전업무일지/2024년도/2024-12/2024-12-02.md",
-    "archive/이전업무일지/2024년도/2024-11/2024-11-21.md",
-    "resource/업무 정보/제품정보/홈퍼니싱/유로 오크.md",
-    "archive/이전업무일지/2024년도/2024-12/2024-12-31.md",
-    "archive/이전업무일지/2025-01/2025-01-06.md",
-    "area/양식/전문문의양식.md",
-    "area/업무루틴/고객부재대응.md",
     "resource/업무 정보/제품정보/홈퍼니싱/가구 종합.md",
-    "2025-02-06.md",
-    "area/업무루틴/사진미발송대응.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "2025-02-10.md",
+    "archive/이전업무일지/2024년도/2024-12/2024-12-18.md",
+    "archive/이전업무일지/2025-01/2025-01-14.md",
+    "archive/이전업무일지/2025-01/2025-01-09.md",
+    "archive/이전업무일지/2025-01/2025-01-15.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-27.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-25.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-05.md",
+    "archive/이전업무일지/2024년도/2024-09/2024-09-10.md",
+    "archive/이전업무일지/2024년도/2024-09/2024-09-23.md",
+    "archive/이전업무일지/2024년도/2024-10/2024-10-24.md",
+    "archive/이전업무일지/2024년도/2024-10/2024-10-16.md",
+    "2025-02-07.md",
+    "area/양식/전문문의양식.md",
+    "area/양식/문자 양식.md",
+    "archive/이전업무일지/2025-01/2025-01-21.md",
+    "area/무상발송건/포시즌 컨트롤러 무상 발송건.md",
     "area/무상발송건/마감스티커_마감캡.md",
-    "area/양식/핫라인 양식.md",
-    "resource/업무 정보/업무 가이드/긴급 가이드.md",
-    "archive/이전업무일지/2024년도/2024-12/2024-12-26.md",
-    "2025-02-03.md",
-    "resource/사내 정보/OEM협력사 연락처 번호.md",
-    "archive/이전업무일지/2024년도/2024-11/2024-11-14.md",
-    "area/빈도수높은문의/쿡탑 교체 비용.md",
-    "area/무상발송건/HS610S 수전 헤드.md",
-    "resource/사내 정보/전문 OEM 이관 연락처.md",
-    "area/빈도수높은문의/후드 교체 비용.md",
+    "resource/업무 정보/제품정보/경첩정보.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-26.md",
+    "resource/업무 정보/업무 가이드/공통 가이드.md",
+    "resource/사내 정보/계정정보.md",
+    "resource/업무 정보/제품정보/부엌/인조대리석 상판 AS비용.md",
+    "area/업무루틴/고객부재대응.md",
     "무제.canvas",
     "image/샘키즈박스.png",
     "image/135도45컵경첩사진1.png",
