@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08f328f004a2b2b4",
+            "id": "d2b0fb96e16ed507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resource/업무 정보/제품정보/홈퍼니싱/옷장 추가 비용.md",
+                "file": "archive/이전업무일지/2024년도/2024-12/2024-12-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "옷장 추가 비용"
+              "title": "2024-12-20"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "레일",
+                "query": "마감캡",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
                 }
               },
               {
-                "id": "5e735a82b76c9b0d",
+                "id": "08f328f004a2b2b4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -318,12 +317,26 @@
       }
     ]
   },
-  "active": "08f328f004a2b2b4",
+  "active": "d2b0fb96e16ed507",
   "lastOpenFiles": [
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "area/양식/문자 양식.md",
+    "archive/이전업무일지/2024년도/2024-12/2024-12-20.md",
+    "area/빈도수높은문의/와토스 폽업.md",
+    "2025-02-12.md",
+    "area/업무루틴/고객부재대응.md",
+    "area/업무루틴/사진미발송대응.md",
+    "area/양식/전문문의양식.md",
+    "resource/업무 정보/업무 가이드/긴급 가이드.md",
+    "archive/이전업무일지/2025-02/2025-02-07.md",
+    "archive/이전업무일지/2025-02/2025-02-04.md",
+    "archive/이전업무일지/2025-02/2025-02-03.md",
+    "archive/이전업무일지/2025-02",
+    "무제.canvas",
+    "resource/업무 정보/제품정보/홈퍼니싱/옷장 추가 비용.md",
     "resource/업무 정보/제품정보/홈퍼니싱/샘키즈.md",
     "archive/이전업무일지/2025-01/2025-01-03.md",
     "archive/이전업무일지/2025-01/2025-01-31.md",
-    "resource/업무 정보/업무 가이드/긴급 가이드.md",
     "resource/업무 정보/업무 가이드/공통 가이드.md",
     "resource/업무 정보/업무 가이드/업무 진행 가이드(작성중).md",
     "resource/업무 정보/업무 가이드/한샘몰 이관 문의 가이드.md",
@@ -334,19 +347,6 @@
     "area/무상발송건/포시즌 컨트롤러 무상 발송건.md",
     "area/무상발송건/HS610S 수전 헤드.md",
     "area/빈도수높은문의/배수 물 안내려감 이관.md",
-    "area/빈도수높은문의/버니 벙커침대 구조 변경.md",
-    "area/빈도수높은문의/부엌장 추가 비용.md",
-    "area/빈도수높은문의/후드 교체 비용.md",
-    "resource/업무 정보/업무 가이드/이동시공 가이드.md",
-    "resource/업무 정보/업무 가이드/오큐 음식물처리기 가이드.md",
-    "resource/업무 정보/업무 가이드/수도권 분류 가이드.md",
-    "resource/업무 정보/업무 가이드/대리점 접수 가이드.md",
-    "resource/업무 정보/업무 가이드/조이포라이프,아메리칸스탠다드,하츠 접수 가이드.md",
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
-    "resource/업무 정보/업무 가이드/출장비.md",
-    "archive/이전업무일지/2025-01/2025-01-16.md",
-    "2025-02-11.md",
-    "무제.canvas",
     "image/샘키즈박스.png",
     "image/135도45컵경첩사진1.png",
     "무제 파일.canvas",
@@ -360,7 +360,6 @@
     "main_tab012.gif",
     "resource",
     "archive",
-    "area",
     "Pasted image 20241210161916.png",
     "업무 가이드/Pasted image 20241111114143.png",
     "업무 가이드/Pasted image 20241111114137.png",
