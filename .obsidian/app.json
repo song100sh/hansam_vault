@@ -9,5 +9,8 @@
   "showIndentGuide": true,
   "strictLineBreaks": false,
   "useTab": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "userIgnoreFilters": [
+    "archive/이전업무일지/"
+  ]
 }
