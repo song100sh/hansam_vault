@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/이전업무일지/2024년도/2024-12/2024-12-20.md",
+                "file": "2025-02-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-20"
+              "title": "2025-02-21"
+            }
+          },
+          {
+            "id": "e2fc5c3bcff034d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "area/무상발송건/포시즌 컨트롤러 무상 발송건.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "포시즌 컨트롤러 무상 발송건"
             }
           }
         ]
@@ -53,8 +67,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "마감캡",
-                "matchingCase": true,
+                "query": "밀란",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,7 +257,8 @@
                   "title": "전문문의양식"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -319,34 +335,36 @@
   },
   "active": "d2b0fb96e16ed507",
   "lastOpenFiles": [
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
-    "area/양식/문자 양식.md",
-    "archive/이전업무일지/2024년도/2024-12/2024-12-20.md",
-    "area/빈도수높은문의/와토스 폽업.md",
-    "2025-02-12.md",
     "area/업무루틴/고객부재대응.md",
     "area/업무루틴/사진미발송대응.md",
     "area/양식/전문문의양식.md",
+    "2025-02-21.md",
+    "resource/밀란 붙박이장 장 추가 정보.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "archive/이전업무일지/2024년도/2024-12/2024-12-03.md",
+    "archive/이전업무일지/2024년도/2024-12/2024-12-23.md",
+    "archive/이전업무일지/2024년도/2024-04/2024-04-15/2024-04-15 6.md",
+    "resource/업무 정보/업무 가이드/출장비.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-25.md",
+    "2025-02-20.md",
+    "Pasted image 20250221092758.png",
+    "resource/업무 정보/제품정보/홈퍼니싱/바흐 브라운.md",
+    "area/빈도수높은문의/후드 교체 비용.md",
+    "resource/업무 정보/업무 가이드/Pasted image 20250221092821.png",
     "resource/업무 정보/업무 가이드/긴급 가이드.md",
-    "archive/이전업무일지/2025-02/2025-02-07.md",
-    "archive/이전업무일지/2025-02/2025-02-04.md",
-    "archive/이전업무일지/2025-02/2025-02-03.md",
+    "area/양식/문자 양식.md",
+    "resource/부엌 도어 청소방법.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-29.md",
+    "archive/이전업무일지/2024년도/2024-10/2024-10-17.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-21.md",
+    "archive/이전업무일지/2025-01/2025-01-07.md",
+    "area/무상발송건/HS610S 수전 헤드.md",
+    "area/양식/핫라인 양식.md",
+    "area/빈도수높은문의/와토스 폽업.md",
+    "area/빈도수높은문의/부엌장 추가 비용.md",
+    "area/무상발송건/포시즌 컨트롤러 무상 발송건.md",
     "archive/이전업무일지/2025-02",
     "무제.canvas",
-    "resource/업무 정보/제품정보/홈퍼니싱/옷장 추가 비용.md",
-    "resource/업무 정보/제품정보/홈퍼니싱/샘키즈.md",
-    "archive/이전업무일지/2025-01/2025-01-03.md",
-    "archive/이전업무일지/2025-01/2025-01-31.md",
-    "resource/업무 정보/업무 가이드/공통 가이드.md",
-    "resource/업무 정보/업무 가이드/업무 진행 가이드(작성중).md",
-    "resource/업무 정보/업무 가이드/한샘몰 이관 문의 가이드.md",
-    "resource/업무 정보/업무 가이드/붙박이장 비용 가이드.md",
-    "resource/업무 정보/업무 가이드/알림톡 사진 등록 방법.md",
-    "resource/업무 정보/업무 가이드/마감스티커 마감캡 가이드.md",
-    "area/무상발송건/마감스티커_마감캡.md",
-    "area/무상발송건/포시즌 컨트롤러 무상 발송건.md",
-    "area/무상발송건/HS610S 수전 헤드.md",
-    "area/빈도수높은문의/배수 물 안내려감 이관.md",
     "image/샘키즈박스.png",
     "image/135도45컵경첩사진1.png",
     "무제 파일.canvas",
@@ -364,8 +382,6 @@
     "업무 가이드/Pasted image 20241111114143.png",
     "업무 가이드/Pasted image 20241111114137.png",
     "Pasted image 20240906134802.png",
-    "Pasted image 20240906134807.png",
-    "Pasted image 20240611170443.png",
-    "Pasted image 20240528181429.png"
+    "Pasted image 20240906134807.png"
   ]
 }
