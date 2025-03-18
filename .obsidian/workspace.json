@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
+                "file": "area/빈도수높은문의/와토스 폽업.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이동시공 이관 업무처리 프로세스"
+              "title": "와토스 폽업"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SLB061008",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,8 +243,7 @@
                   "title": "전문문의양식"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
@@ -318,34 +318,34 @@
       }
     ]
   },
-  "active": "718132e06aef6f55",
+  "active": "d004d32d8be602e8",
   "lastOpenFiles": [
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "area/빈도수높은문의/와토스 폽업.md",
     "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
-    "2025-03-14.md",
-    "area/양식/전문문의양식.md",
-    "area/빈도수높은문의/쿡탑 교체 비용.md",
-    "resource/케이스, 빅터 식탁의자 가죽교체 비용.md",
-    "resource/업무 정보/제품정보/경첩정보.md",
+    "area/빈도수높은문의/후드 교체 비용.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
     "area/양식/문자 양식.md",
+    "2025-03-18.md",
     "area/업무루틴/사진미발송대응.md",
+    "area/양식/핫라인 양식.md",
+    "area/양식/전문문의양식.md",
     "area/업무루틴/고객부재대응.md",
     "area/무상발송건/수전 헤드 무상발송건.md",
-    "area/무상발송건/포시즌 컨트롤러 무상 발송건.md",
-    "area/무상발송건/마감스티커_마감캡.md",
-    "area/무상발송건/HS610S 수전 헤드.md",
-    "area/업무루틴/이관건수보고.md",
-    "area/업무루틴/출격방어_홈퍼니싱문의양식.md",
-    "2025-03-12.md",
-    "resource/사내 정보/계정정보.md",
-    "area/양식/핫라인 양식.md",
-    "resource/업무 정보/업무 가이드/긴급 가이드.md",
-    "파세코 후드 기기 목록.md",
-    "resource/HB-6000 작동 방법 문의.md",
-    "resource/클린트 6000 어반 머드베이지 거실장.md",
+    "archive/출격방어 접수건 업무 조율 요청.md",
     "area/빈도수높은문의/장추가 종합정보.md",
-    "archive/이전업무일지/2024년도/2024-06/2024-06-14.md",
-    "resource/업무 정보/업무 가이드/조이포라이프,아메리칸스탠다드,하츠 접수 가이드.md",
+    "archive/출격방어 접수건 경수리 접수 진행.md",
+    "resource/밀란 붙박이장 장 추가 정보.md",
+    "resource/파세코 기기 목록.md",
+    "area/area README.md",
+    "archive/이전업무일지/2025-03/2025-03-14.md",
+    "archive/이전업무일지/2025-03/2025-03-11.md",
+    "resource/업무 정보/제품정보/부엌/인조대리석 상판 AS비용.md",
+    "resource/업무 정보/제품정보/부엌/싱크볼 교체 비용.md",
+    "resource/업무 정보/업무 가이드/긴급 가이드.md",
+    "2025-03-17.md",
+    "resource/업무 정보/제품정보/홈퍼니싱/바흐 브라운.md",
+    "resource/업무 정보/제품정보/홈퍼니싱/가구 종합.md",
+    "resource/업무 정보/업무 가이드/공통 가이드.md",
     "archive/이전업무일지/2025-03",
     "resource/업무 정보/업무 가이드/Pasted image 20250221092821.png",
     "Pasted image 20250221164127.png",
