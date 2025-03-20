@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "718132e06aef6f55",
+            "id": "8428a3ac6ee0ea11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-19.md",
+                "file": "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-19"
+              "title": "이동시공 이관 업무처리 프로세스"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +242,8 @@
                   "title": "전문문의양식"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -305,7 +305,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -318,34 +318,34 @@
       }
     ]
   },
-  "active": "d004d32d8be602e8",
+  "active": "8428a3ac6ee0ea11",
   "lastOpenFiles": [
+    "2025-03-20.md",
+    "project/출격방어 경수리 접수 요청.md",
+    "area/양식/핫라인 양식.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "area/양식/전문문의양식.md",
+    "area/업무루틴/고객부재대응.md",
     "area/양식/문자 양식.md",
     "area/업무루틴/사진미발송대응.md",
+    "area/무상발송건/수전 헤드 무상발송건.md",
+    "소볼 배수구.md",
+    "후기 확인 필요건.md",
+    "archive/이전업무일지/2025-03/2025-03-04.md",
+    "archive/이전업무일지/2024년도/2024-12/2024-12-04.md",
+    "2025-03-18.md",
+    "archive/스크립트/카카오톡 스크립트.md",
+    "area/빈도수높은문의/쿡탑 교체 비용.md",
     "2025-03-19.md",
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "area/업무루틴/출격방어_홈퍼니싱문의양식.md",
+    "resource/한샘 세제수전 구매 문의.md",
+    "archive/스크립트/전문상담사 스크립트.md",
+    "resource/바스 조명.md",
     "resource/업무 정보/제품정보/부엌/싱크볼 교체 비용.md",
     "area/무상발송건/마감스티커_마감캡.md",
     "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
-    "area/양식/전문문의양식.md",
-    "area/업무루틴/고객부재대응.md",
     "area/빈도수높은문의/와토스 폽업.md",
-    "area/무상발송건/수전 헤드 무상발송건.md",
-    "바스 조명.md",
-    "resource/한샘 세제수전 구매 문의.md",
     "resource/업무 정보/제품정보/부엌/부엌 가구 수리.md",
-    "resource/업무 정보/업무 가이드/조치처 가이드.md",
-    "resource/사내 정보/계정정보.md",
-    "area/빈도수높은문의/후드 교체 비용.md",
-    "2025-03-18.md",
-    "area/양식/핫라인 양식.md",
-    "archive/출격방어 접수건 업무 조율 요청.md",
-    "area/빈도수높은문의/장추가 종합정보.md",
-    "archive/출격방어 접수건 경수리 접수 진행.md",
-    "resource/밀란 붙박이장 장 추가 정보.md",
-    "resource/파세코 기기 목록.md",
-    "area/area README.md",
-    "archive/이전업무일지/2025-03/2025-03-14.md",
     "archive/이전업무일지/2025-03",
     "resource/업무 정보/업무 가이드/Pasted image 20250221092821.png",
     "Pasted image 20250221164127.png",
