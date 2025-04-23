@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1d9cceabca1878e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-04-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-22"
-            }
-          },
-          {
             "id": "3a534e489066b220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-22.md",
+                "file": "2025-04-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "2025-04-23"
+            }
+          },
+          {
+            "id": "d004d32d8be602e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "전문상담 가이드"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "슬라이딩",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -266,102 +265,40 @@
         "x": -499,
         "y": 1,
         "width": 498,
-        "height": 520,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "62954fddb6adc3b5",
-        "type": "window",
-        "children": [
-          {
-            "id": "c1914537663b8246",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "90d7e2fa315cd4fc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "resource/업무 정보/업무 가이드/긴급 가이드.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "긴급 가이드"
-                }
-              },
-              {
-                "id": "8fa701712ab61d7e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "resource/양식/핫라인 양식.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "핫라인 양식"
-                }
-              },
-              {
-                "id": "d004d32d8be602e8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "resource/업무 정보/업무 가이드/전문상담 가이드.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "전문상담 가이드"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": -499,
-        "y": 521,
-        "width": 498,
-        "height": 517,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3a534e489066b220",
+  "active": "d004d32d8be602e8",
   "lastOpenFiles": [
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
-    "2025-04-22.md",
-    "area/빈도수높은문의/장추가 종합정보.md",
-    "area/빈도수높은문의/후드 교체 비용.md",
-    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
     "area/업무루틴/고객부재대응.md",
-    "area/업무루틴/사진미발송대응.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
     "resource/양식/문자 양식.md",
+    "2025-04-23.md",
+    "area/업무루틴/사진미발송대응.md",
     "resource/양식/전문문의양식.md",
-    "resource/업무 정보/제품정보/부엌/싱크볼 교체 비용.md",
-    "area/무상발송건/마감스티커_마감캡.md",
     "resource/양식/핫라인 양식.md",
     "resource/업무 정보/업무 가이드/긴급 가이드.md",
+    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
+    "resource/부엌장 및 도어 추가 비용.md",
+    "resource/부엌 도어 청소방법.md",
+    "area/빈도수높은문의/장추가 종합정보.md",
+    "area/무상발송건/수전 헤드 무상발송건.md",
+    "resource/가구 냄새 조치.md",
+    "무제.md",
+    "resource/업무 정보/제품정보/홈퍼니싱/유로 오크.md",
+    "area/무상발송건/마감스티커_마감캡.md",
+    "area/무상발송건/포시즌 컨트롤러 무상 발송건.md",
+    "area/빈도수높은문의/와토스 폽업.md",
+    "area/빈도수높은문의/쿡탑 교체 비용.md",
+    "area/빈도수높은문의/후드 교체 비용.md",
+    "2025-04-22.md",
+    "resource/업무 정보/제품정보/부엌/싱크볼 교체 비용.md",
     "ECH60 후드 필터.md",
     "resource/업무 정보/업무 가이드/조이포라이프,아메리칸스탠다드,하츠 접수 가이드.md",
     "2025-04-21.md",
-    "area/무상발송건/수전 헤드 무상발송건.md",
-    "area/무상발송건/포시즌 컨트롤러 무상 발송건.md",
-    "archive/이전업무일지/2025-04/2025-04-17.md",
-    "archive/이전업무일지/2025-04/2025-04-16.md",
-    "문의건.md",
-    "area/업무루틴/이관건수보고.md",
-    "2025-04-18.md",
-    "resource/한샘 세제수전 구매 문의.md",
-    "resource/업무 정보/제품정보/홈퍼니싱/뉴라인.md",
-    "area/빈도수높은문의/쿡탑 교체 비용.md",
     "image/조이책상조명어댑터_1.png",
     "image/ml300_1.png",
     "image/135도45컵경첩사진1.png",
