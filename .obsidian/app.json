@@ -10,7 +10,5 @@
   "strictLineBreaks": false,
   "useTab": false,
   "autoConvertHtml": false,
-  "userIgnoreFilters": [
-    "archive/"
-  ]
+  "userIgnoreFilters": null
 }
