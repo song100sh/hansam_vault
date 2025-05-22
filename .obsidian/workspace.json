@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "조이포",
+                "query": "바퀴",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,6 +118,16 @@
         "id": "039f80e28fb59b4c",
         "type": "tabs",
         "children": [
+          {
+            "id": "d52df525c50b5b9d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
           {
             "id": "e338a2b49df79fee",
             "type": "leaf",
@@ -144,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-05-12.md",
+                "file": "project/버니 벙커 침대 BS 접수 가이드.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-05-12 의 나가는 링크"
+              "title": "버니 벙커 침대 BS 접수 가이드 의 나가는 링크"
             }
           },
           {
@@ -173,10 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-17.md"
+                "file": "project/버니 벙커 침대 BS 접수 가이드.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2024-10-17 개요"
+              "title": "버니 벙커 침대 BS 접수 가이드 의 개요"
             }
           },
           {
@@ -189,12 +201,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 366.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -262,48 +273,48 @@
       }
     ]
   },
-  "active": "1c511aa1714c6d5e",
+  "active": "9accd41353734443",
   "lastOpenFiles": [
-    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
     "resource/업무 정보/업무 가이드/전문상담 가이드.md",
     "project/버니 벙커 침대 BS 스크립트.md",
     "project/버니 벙커 침대 BS 접수 가이드.md",
+    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
+    "project/Pasted image 20250522164709.png",
+    "resource/벨라 5000 책상의자 이슈.md",
+    "project/Pasted image 20250522151415.png",
+    "project/Pasted image 20250522140312.png",
+    "archive/이전업무일지/2025-05/2025-05-08.md",
+    "archive/이전업무일지/2025-05/2025-05-12.md",
+    "archive/이전업무일지/2025-05/2025-05-19.md",
     "project/Pasted image 20250520132627.png",
-    "resource/업무 정보/업무 가이드/긴급 가이드.md",
     "resource/양식/문자 양식.md",
-    "2025-05-19.md",
+    "resource/칼리아한샘 다릿발.md",
+    "resource/소파 중간다릿발 들뜸 이유.md",
+    "resource/업무 정보/업무 가이드/긴급 가이드.md",
     "resource/양식/핫라인 양식.md",
     "resource/업무 정보/업무 가이드/공통 가이드.md",
     "resource/업무 정보/업무 가이드/출장비.md",
-    "2025-05-14.md",
+    "archive/이전업무일지/2025-05/2025-05-14.md",
     "resource/업무 정보/업무 가이드/조이포라이프,아메리칸스탠다드,하츠 접수 가이드.md",
     "resource/양식/전문문의양식.md",
     "area/업무루틴/사진미발송대응.md",
     "area/업무루틴/고객부재대응.md",
-    "2025-05-12.md",
-    "2025-05-13.md",
+    "archive/이전업무일지/2025-05/2025-05-13.md",
     "resource/이미지 해시 기반 비교.md",
     "project/main_tab012.gif",
     "resource/업무 정보/업무 가이드/이동시공 가이드.md",
     "resource/사내 정보/전문 OEM 이관 연락처.md",
     "project/Pasted image 20250513142744.png",
     "archive/업무지원요청/출격방어 경수리 접수 요청.md",
-    "archive/업무지원요청/출격방어 접수건 경수리 접수 진행.md",
-    "archive/업무지원요청/출격방어 접수건 업무 조율 요청.md",
-    "area/무상발송건/마감스티커_마감캡.md",
-    "area/빈도수높은문의/장추가 종합정보.md",
     "image/ml300_1.png",
     "image/조이책상조명어댑터_1.png",
     "image/135도45컵경첩사진1.png",
     "image/샘키즈박스.png",
     "archive/이전업무일지/2025-05",
     "무제 1",
-    "Pasted image 20250428113436.jpg",
     "archive/이전업무일지/2025-04",
     "archive/업무지원요청",
     "archive/이전업무일지/2025-03",
-    "resource/업무 정보/업무 가이드/Pasted image 20250221092821.png",
-    "Pasted image 20250221164127.png",
     "archive/이전업무일지/2025-02",
     "무제.canvas",
     "무제 파일.canvas",
