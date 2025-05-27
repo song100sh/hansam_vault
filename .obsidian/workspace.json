@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cefd33860ec237c",
+            "id": "518e54a42ed0dd1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-26.md",
+                "file": "resource/업무 정보/업무 가이드/전문상담 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-26"
+              "title": "전문상담 가이드"
             }
           },
           {
-            "id": "5a5dbdd1bae914b1",
+            "id": "342115ffdc4d7069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resource/업무 정보/업무 가이드/이동시공 가이드.md",
+                "file": "project/버니 벙커 침대 BS 스크립트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이동시공 가이드"
+              "title": "버니 벙커 침대 BS 스크립트"
             }
           }
         ]
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "실측",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,8 +243,23 @@
                   "icon": "lucide-file",
                   "title": "핫라인 양식"
                 }
+              },
+              {
+                "id": "454a648735918382",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "project/버니 벙커 침대 BS 접수 가이드.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "버니 벙커 침대 BS 접수 가이드"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -290,20 +305,25 @@
       }
     ]
   },
-  "active": "7cefd33860ec237c",
+  "active": "518e54a42ed0dd1d",
   "lastOpenFiles": [
-    "TODO_LIST.md",
-    "2025-05-26.md",
-    "resource/업무 정보/업무 가이드/이동시공 가이드.md",
-    "resource/업무 정보/업무 가이드/긴급 가이드.md",
-    "resource/양식/문자 양식.md",
+    "resource/파세코 기기 목록.md",
+    "archive/이전업무일지/2024년도/2024-08/2024-08-16.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
     "project/버니 벙커 침대 BS 스크립트.md",
-    "resource/양식/핫라인 양식.md",
     "project/버니 벙커 침대 BS 접수 가이드.md",
+    "resource/양식/핫라인 양식.md",
+    "resource/양식/문자 양식.md",
+    "TODO_LIST.md",
+    "resource/업무 정보/배수 물 안내려감 이관.md",
+    "resource/소볼 배수구.md",
+    "resource/양식/메일 양식.md",
+    "resource/업무 정보/업무 가이드/이동시공 가이드.md",
+    "2025-05-26.md",
+    "resource/업무 정보/업무 가이드/긴급 가이드.md",
     "resource/HB-6000 작동 방법 문의.md",
     "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
     "휴플로어 교체 상담.md",
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
     "project/Pasted image 20250522164709.png",
     "resource/벨라 5000 책상의자 이슈.md",
     "project/Pasted image 20250522151415.png",
@@ -317,11 +337,6 @@
     "resource/업무 정보/업무 가이드/공통 가이드.md",
     "resource/업무 정보/업무 가이드/출장비.md",
     "archive/이전업무일지/2025-05/2025-05-14.md",
-    "resource/업무 정보/업무 가이드/조이포라이프,아메리칸스탠다드,하츠 접수 가이드.md",
-    "resource/양식/전문문의양식.md",
-    "area/업무루틴/사진미발송대응.md",
-    "area/업무루틴/고객부재대응.md",
-    "archive/이전업무일지/2025-05/2025-05-13.md",
     "project/main_tab012.gif",
     "project/Pasted image 20250513142744.png",
     "image/ml300_1.png",
