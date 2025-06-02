@@ -1,16 +1,3 @@
 {
-  "spellcheck": false,
-  "tabSize": 2,
-  "foldHeading": true,
-  "attachmentFolderPath": "./",
-  "showInlineTitle": true,
-  "alwaysUpdateLinks": true,
-  "livePreview": true,
-  "showIndentGuide": true,
-  "strictLineBreaks": false,
-  "useTab": false,
-  "autoConvertHtml": false,
-  "userIgnoreFilters": [
-    "archive/"
-  ]
+  "spellcheck": false
 }
