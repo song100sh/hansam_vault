@@ -36,21 +36,7 @@
             }
           },
           {
-            "id": "a3f654686c3f883c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-06-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-02"
-            }
-          },
-          {
-            "id": "2ecd513860935241",
+            "id": "a101cf6aae5126a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,6 +47,20 @@
               },
               "icon": "lucide-file",
               "title": "이동시공 이관 업무처리 프로세스"
+            }
+          },
+          {
+            "id": "1886e02030fa4b42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-05"
             }
           }
         ],
@@ -117,7 +117,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -308,7 +309,7 @@
         "x": -499,
         "y": 1,
         "width": 498,
-        "height": 1039,
+        "height": 1038,
         "maximize": false,
         "zoom": 0
       },
@@ -347,38 +348,38 @@
       }
     ]
   },
-  "active": "2ecd513860935241",
+  "active": "1886e02030fa4b42",
   "lastOpenFiles": [
-    "TODO_LIST.md",
-    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
-    "2025-06-02.md",
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
     "resource/양식/문자 양식.md",
+    "2025-06-05.md",
     "project/버니 벙커 침대 BS 접수 가이드.md",
+    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
     "project/버니 벙커 침대 BS 스크립트.md",
-    "resource/업무 정보/업무 가이드/긴급 가이드.md",
-    "archive/이전업무일지/2024년도/2024-10/2024-10-08.md",
-    "resource/업무 정보/업무 가이드/조치처 가이드.md",
-    "resource/업무 정보/업무 가이드/업무 진행 가이드(작성중).md",
-    "resource/업무 정보/업무 가이드/마감스티커 마감캡 가이드.md",
-    "resource/업무 정보/업무 가이드/대리점 접수 가이드.md",
-    "resource/업무 정보/업무 가이드/붙박이장 비용 가이드.md",
-    "resource/업무 정보/업무 가이드/공통 가이드.md",
-    "resource/양식/핫라인 양식.md",
-    "archive/이전업무일지/이전작업자의 흔적/핫라인.md",
-    "archive/이전업무일지/이전작업자의 흔적/샘키즈 수납박스 1개월내 불량.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "TODO_LIST.md",
+    "2025-05-26.md",
+    "2025-06-02.md",
+    "2025-06-04.md",
     "출격방어 대응.md",
-    "archive/이전업무일지/2024년도/2024-04/2024-04-16/2024-04-16 8.md",
-    "archive/이전업무일지/2024년도/2024-10/2024-10-23.md",
-    "resource/업무 정보/제품정보/홈퍼니싱/가구 종합.md",
-    "archive/이전업무일지/2025-01/2025-01-06.md",
+    "archive/이전업무일지/2025-04/2025-04-22.md",
+    "archive/이전업무일지/2025-04/2025-04-21.md",
+    "archive/이전업무일지/2025-03/2025-03-11.md",
+    "resource/한샘 세제수전 구매 문의.md",
+    "resource/업무 정보/업무 가이드/긴급 가이드.md",
+    "resource/양식/핫라인 양식.md",
+    "resource/업무 정보/업무 가이드/이동시공 가이드.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-25.md",
+    "archive/이전업무일지/2024년도/2024-12/2024-12-02.md",
+    "archive/이전업무일지/2025-01/2025-01-14.md",
+    "archive/이전업무일지/2025-02/2025-02-13.md",
+    "area/빈도수높은문의/장추가 종합정보.md",
+    "archive/이전업무일지/2025-04/2025-04-02.md",
+    "archive/이전업무일지/2025-04/2025-04-11.md",
+    "archive/이전업무일지/2024년도/2024-10/2024-10-08.md",
     "Pasted image 20250529115918.png",
     "image/135도45컵경첩사진1.png",
     "image/조이책상조명어댑터_1.png",
     "image/ml300_1.png",
-    "resource/이미지 해시 기반 비교.md",
-    "resource/파세코 기기 목록.md",
-    "archive/이전업무일지/2024년도/2024-08/2024-08-16.md",
     "project/Pasted image 20250522164709.png",
     "project/Pasted image 20250522151415.png",
     "project/Pasted image 20250522140312.png",
