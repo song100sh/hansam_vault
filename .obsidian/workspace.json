@@ -41,30 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
+                "file": "2025-06-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이동시공 이관 업무처리 프로세스"
-            }
-          },
-          {
-            "id": "1886e02030fa4b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-06-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-05"
+              "title": "2025-06-09"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5,
+    "width": 212.5,
     "collapsed": true
   },
   "right": {
@@ -261,7 +246,7 @@
                 }
               },
               {
-                "id": "454a648735918382",
+                "id": "13717f6116e857fe",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -275,21 +260,7 @@
                 }
               },
               {
-                "id": "48de84e99634ea90",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "resource/양식/핫라인 양식.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "핫라인 양식"
-                }
-              },
-              {
-                "id": "540ef3f175a7cac0",
+                "id": "6409c6425390f227",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -302,7 +273,8 @@
                   "title": "긴급 가이드"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -348,34 +320,35 @@
       }
     ]
   },
-  "active": "1886e02030fa4b42",
+  "active": "518e54a42ed0dd1d",
   "lastOpenFiles": [
-    "resource/양식/문자 양식.md",
-    "2025-06-05.md",
-    "project/버니 벙커 침대 BS 접수 가이드.md",
-    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
     "project/버니 벙커 침대 BS 스크립트.md",
+    "project/버니 벙커 침대 BS 접수 가이드.md",
     "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "archive/이전업무일지/2024년도/2024-08/2024-08-08.md",
+    "area/빈도수높은문의/후드 필터 구매 경로.md",
+    "2025-06-09.md",
     "TODO_LIST.md",
-    "2025-05-26.md",
-    "2025-06-02.md",
-    "2025-06-04.md",
-    "출격방어 대응.md",
-    "archive/이전업무일지/2025-04/2025-04-22.md",
-    "archive/이전업무일지/2025-04/2025-04-21.md",
-    "archive/이전업무일지/2025-03/2025-03-11.md",
-    "resource/한샘 세제수전 구매 문의.md",
+    "resource/양식/문자 양식.md",
     "resource/업무 정보/업무 가이드/긴급 가이드.md",
+    "archive/스크립트/긴급건 스크립트.md",
+    "resource/휴플로어 교체 상담.md",
+    "project/출격방어 대응.md",
+    "archive/이전업무일지/2025-06/2025-06-07.md",
+    "archive/이전업무일지/2025-06",
+    "area/업무루틴/사진미발송대응.md",
+    "area/업무루틴/고객부재대응.md",
+    "archive/이전업무일지/2025-05/2025-05-02.md",
+    "resource/업무 정보/제품정보/부엌/인조대리석 상판 AS비용.md",
+    "archive/이전업무일지/2025-04/2025-04-28.md",
+    "archive/이전업무일지/2024년도/2024-12/2024-12-31.md",
+    "area/무상발송건/마감스티커_마감캡.md",
+    "resource/가구 냄새 조치.md",
+    "archive/이전업무일지/2025-01/2025-01-02.md",
+    "resource/사내 정보/계정정보.md",
     "resource/양식/핫라인 양식.md",
-    "resource/업무 정보/업무 가이드/이동시공 가이드.md",
-    "archive/이전업무일지/2024년도/2024-11/2024-11-25.md",
-    "archive/이전업무일지/2024년도/2024-12/2024-12-02.md",
-    "archive/이전업무일지/2025-01/2025-01-14.md",
-    "archive/이전업무일지/2025-02/2025-02-13.md",
-    "area/빈도수높은문의/장추가 종합정보.md",
-    "archive/이전업무일지/2025-04/2025-04-02.md",
-    "archive/이전업무일지/2025-04/2025-04-11.md",
-    "archive/이전업무일지/2024년도/2024-10/2024-10-08.md",
+    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
+    "archive/이전업무일지/2025-06/2025-06-05.md",
     "Pasted image 20250529115918.png",
     "image/135도45컵경첩사진1.png",
     "image/조이책상조명어댑터_1.png",
@@ -396,7 +369,6 @@
     "무제 파일.canvas",
     "area/빈도수높은문의",
     "archive/이전업무일지/2024년도",
-    "archive/이전업무일지/2025-01",
-    "resource/사내 정보"
+    "archive/이전업무일지/2025-01"
   ]
 }
