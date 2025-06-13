@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "342115ffdc4d7069",
+            "id": "854566a506e065d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "4b2e001f25d69e3f",
+            "id": "d0ed142abbfb65f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -123,8 +123,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -196,8 +196,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -219,134 +219,130 @@
     }
   },
   "floating": {
-    "id": "79cdb93425921ea7",
+    "id": "7c5d95cfc90d1276",
     "type": "floating",
     "children": [
       {
-        "id": "1ed3f18a56ac6fab",
+        "id": "8caf12a77a9f8d5b",
         "type": "window",
         "children": [
           {
-            "id": "8739215381cab77b",
-            "type": "tabs",
+            "id": "e24d26e02a1ee01c",
+            "type": "split",
             "children": [
               {
-                "id": "329c9b7ceda5c72d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "resource/양식/문자 양식.md",
-                    "mode": "source",
-                    "source": false
+                "id": "5dd87781359e25eb",
+                "type": "tabs",
+                "dimension": 74.90384615384616,
+                "children": [
+                  {
+                    "id": "1196bc298ae6d965",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "resource/양식/문자 양식.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "문자 양식"
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "문자 양식"
-                }
+                  {
+                    "id": "c3c5472f4c9b13cc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "project/버니 벙커 침대 BS 접수 가이드.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "버니 벙커 침대 BS 접수 가이드"
+                    }
+                  },
+                  {
+                    "id": "895ae4b5d28a7c19",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "resource/양식/핫라인 양식.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "핫라인 양식"
+                    }
+                  }
+                ],
+                "currentTab": 1
               },
               {
-                "id": "13717f6116e857fe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "project/버니 벙커 침대 BS 접수 가이드.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "버니 벙커 침대 BS 접수 가이드"
-                }
-              },
-              {
-                "id": "6409c6425390f227",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "resource/업무 정보/업무 가이드/긴급 가이드.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "긴급 가이드"
-                }
+                "id": "691ea86002cbaef0",
+                "type": "tabs",
+                "dimension": 25.096153846153847,
+                "children": [
+                  {
+                    "id": "5ea22111b745979a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "TODO_LIST.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "TODO_LIST"
+                    }
+                  }
+                ]
               }
             ],
-            "currentTab": 1
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical",
         "x": -499,
         "y": 1,
         "width": 498,
-        "height": 1038,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "d5c9fb6416e0d855",
-        "type": "window",
-        "children": [
-          {
-            "id": "2d8af0e230403b94",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "175422f7c2bf2354",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "TODO_LIST.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "TODO_LIST"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 2,
-        "width": 711,
-        "height": 238,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "175422f7c2bf2354",
+  "active": "518e54a42ed0dd1d",
   "lastOpenFiles": [
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
+    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
     "project/버니 벙커 침대 BS 스크립트.md",
     "project/버니 벙커 침대 BS 접수 가이드.md",
     "TODO_LIST.md",
-    "resource/업무 정보/업무 가이드/긴급 가이드.md",
-    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
+    "resource/양식/핫라인 양식.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
     "resource/양식/문자 양식.md",
     "area/빈도수높은문의/후드 필터 구매 경로.md",
+    "archive/이전업무일지/2024년도/2024-08/2024-08-08.md",
+    "2025-06-11.md",
+    "archive/이전업무일지/2025-02/2025-02-03.md",
+    "archive/이전업무일지/2025-03/2025-03-11.md",
+    "resource/파세코 기기 목록.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-28.md",
+    "area/빈도수높은문의/후드 교체 비용.md",
+    "archive/이전업무일지/2024년도/2024-10/2024-10-14.md",
+    "area/업무루틴/고객부재대응.md",
+    "area/업무루틴/사진미발송대응.md",
+    "area/빈도수높은문의/장추가 종합정보.md",
+    "resource/업무 정보/업무 가이드/긴급 가이드.md",
     "archive/이전업무일지/2025-06/2025-06-05.md",
     "archive/이전업무일지/2025-06/2025-06-04.md",
     "archive/이전업무일지/2025-06/2025-06-02.md",
     "archive/이전업무일지/2025-06/2025-06-07.md",
     "archive/이전업무일지/2025-06/2025-06-09.md",
     "archive/이전업무일지/2025-02/2025-02-24.md",
-    "archive/이전업무일지/2025-05/2025-05-19.md",
-    "archive/이전업무일지/2025-04/2025-04-22.md",
-    "archive/이전업무일지/2025-04/2025-04-21.md",
-    "archive/이전업무일지/2025-05/2025-05-02.md",
-    "archive/이전업무일지/2025-03/2025-03-28.md",
-    "resource/업무 정보/제품정보/부엌/싱크볼 교체 비용.md",
-    "resource/부엌장 및 도어 추가 비용.md",
-    "archive/이전업무일지/2024년도/2024-11/2024-11-21.md",
-    "archive/이전업무일지/2024년도/2024-10/2024-10-29.md",
-    "archive/이전업무일지/2024년도/2024-10/2024-10-21.md",
-    "archive/이전업무일지/2024년도/2024-06/2024-06-03.md",
-    "archive/이전업무일지/2025-05/2025-05-12.md",
     "archive/이전업무일지/2025-06",
     "Pasted image 20250529115918.png",
     "image/135도45컵경첩사진1.png",

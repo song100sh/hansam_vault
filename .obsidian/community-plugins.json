@@ -1,7 +1,7 @@
 [
-  "table-editor-obsidian",
   "obsidian-admonition",
+  "table-editor-obsidian",
   "obsidian-outliner",
-  "obsidian-excel-to-markdown-table",
-  "calendar"
+  "calendar",
+  "obsidian-excel-to-markdown-table"
 ]

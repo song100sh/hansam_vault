@@ -1,4 +1,10 @@
 {
   "spellcheck": false,
-  "userIgnoreFilters": null
+  "defaultViewMode": "source",
+  "userIgnoreFilters": [
+    "archive/이전업무일지/이전작업자의 흔적/"
+  ],
+  "foldHeading": false,
+  "tabSize": 2,
+  "showInlineTitle": false
 }
