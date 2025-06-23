@@ -22,49 +22,21 @@
             }
           },
           {
-            "id": "545579530ccdd06a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "미분류팁.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "미분류팁"
-            }
-          },
-          {
             "id": "6b5af9f9adb6300a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-17.md",
+                "file": "2025-06-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-17"
-            }
-          },
-          {
-            "id": "b8335df618b2558e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "이동시공 이관 업무처리 프로세스"
+              "title": "2025-06-23"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "마일로",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +89,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,7 +221,7 @@
               {
                 "id": "5dd87781359e25eb",
                 "type": "tabs",
-                "dimension": 74.90384615384616,
+                "dimension": 53.07692307692308,
                 "children": [
                   {
                     "id": "1196bc298ae6d965",
@@ -319,14 +292,28 @@
                       "icon": "lucide-file",
                       "title": "핫라인 양식"
                     }
+                  },
+                  {
+                    "id": "045910bcde3238e3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "resource/업무 정보/업무 가이드/긴급 가이드.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "긴급 가이드"
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 3
               },
               {
                 "id": "691ea86002cbaef0",
                 "type": "tabs",
-                "dimension": 25.096153846153847,
+                "dimension": 46.92307692307692,
                 "children": [
                   {
                     "id": "5ea22111b745979a",
@@ -358,37 +345,38 @@
       }
     ]
   },
-  "active": "b8335df618b2558e",
+  "active": "6b5af9f9adb6300a",
   "lastOpenFiles": [
-    "2025-06-17.md",
+    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
     "2025-06-18.md",
+    "TODO_LIST.md",
+    "resource/양식/전문문의양식.md",
+    "resource/양식/핫라인 양식.md",
+    "area/업무루틴/고객부재대응.md",
+    "area/업무루틴/사진미발송대응.md",
+    "resource/양식/문자 양식.md",
+    "archive/이전업무일지/2025-01/2025-01-15.md",
+    "archive/이전업무일지/2024년도/2024-12/2024-12-18.md",
+    "2025-06-23.md",
+    "resource/업무 정보/업무 가이드/긴급 가이드.md",
+    "image/135도45컵경첩사진1.png",
+    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
+    "archive/이전업무일지/2024년도/2024-11/2024-11-21.md",
+    "미분류팁.md",
+    "2025-06-17.md",
+    "resource/업무 정보/제품정보/부엌/수전 정보.md",
+    "메트리스 수리비용.md",
+    "image/메트리스표.png",
     "area/무상발송건/수전 헤드 무상발송건.md",
     "resource/업무 정보/업무 가이드/붙박이장 비용 가이드.md",
     "archive/이전업무일지/2024년도/2024-10/2024-10-23.md",
     "archive/이전업무일지/2025-02/2025-02-11.md",
     "area/빈도수높은문의/장추가 종합정보.md",
-    "area/업무루틴/사진미발송대응.md",
-    "resource/양식/전문문의양식.md",
-    "resource/업무 정보/업무 가이드/전문상담 가이드.md",
-    "미분류팁.md",
-    "resource/양식/핫라인 양식.md",
-    "resource/양식/문자 양식.md",
-    "area/업무루틴/고객부재대응.md",
     "area/빈도수높은문의/후드 교체 비용.md",
     "archive/이전업무일지/2025-05/2025-05-19.md",
-    "TODO_LIST.md",
     "resource/사내 정보/계정정보.md",
-    "area/업무루틴/이동시공 이관 업무처리 프로세스.md",
-    "archive/이전업무일지/2025-06/2025-06-16.md",
-    "archive/이전업무일지/2025-02/2025-02-14.md",
-    "area/빈도수높은문의/후드 필터 구매 경로.md",
-    "resource/업무 정보/제품정보/부엌/싱크볼 교체 비용.md",
-    "archive/이전업무일지/2025-03/2025-03-28.md",
-    "archive/이전업무일지/2025-03/2025-03-18.md",
-    "archive/이전업무일지/2025-02/2025-02-10.md",
     "archive/이전업무일지/2025-06",
     "Pasted image 20250529115918.png",
-    "image/135도45컵경첩사진1.png",
     "image/조이책상조명어댑터_1.png",
     "image/ml300_1.png",
     "project/Pasted image 20250522164709.png",
@@ -396,7 +384,6 @@
     "project/Pasted image 20250522140312.png",
     "project/Pasted image 20250520132627.png",
     "project/main_tab012.gif",
-    "project/Pasted image 20250513142744.png",
     "archive/이전업무일지/2025-05",
     "무제 1",
     "archive/이전업무일지/2025-04",
