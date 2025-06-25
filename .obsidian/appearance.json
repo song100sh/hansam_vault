@@ -2,6 +2,6 @@
   "cssTheme": "Obsidian Nord",
   "theme": "obsidian",
   "showRibbon": true,
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "baseFontSize": 16
 }
